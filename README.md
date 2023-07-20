@@ -1,5 +1,7 @@
 # Test task Product List
 
+[Live site](https://snazzy-khapse-ced6bb.netlify.app/)
+
 ## Требования к функционалу:
 
 - Приложение состоит из 1-ой страницы
